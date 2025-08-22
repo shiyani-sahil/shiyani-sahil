@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi, I'm Sahil
+AI ML Student | Aspiring Data scientist & ML Enthusiast Passionate About Turning Raw Data into meaningful insights.
 
-<!--
-**shiyani-sahil/shiyani-sahil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently Learning:
+  Python for Data Science
+  SQL for Data Handling
+  ASP.NET for webform
 
-Here are some ideas to get you started:
+Working Project:
+  Employre.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Small Description of the project:
+  In our project, there are three main departments: Admin, Student, and 
+Company. Each department has specific roles:
+ •The Company section displays the number of job vacancies, along with the 
+required qualifications and skills for each position. 
+•Students can view these vacancies and apply for suitable jobs based on 
+their qualifications and abilities.
+ •The system also maintains information about the employees who have 
+already been placed through the platform.
+ •There is a registration and login page available for all users—Admin, 
+Student, and Company—to access their respectivefeatures
+  

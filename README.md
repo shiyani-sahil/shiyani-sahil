@@ -8,12 +8,12 @@ Currently Learning:
 
 Working Project:
 
-  Employre.com
+      Employre.com
 
 Small Description of the project:
 
-  In our project, there are three main departments: Admin, Student, and 
-Company. Each department has specific roles:
+      In our project, there are three main departments: Admin, Student, and 
+      Company. Each department has specific roles:
 
  •The Company section displays the number of job vacancies, along with the 
 required qualifications and skills for each position. 
